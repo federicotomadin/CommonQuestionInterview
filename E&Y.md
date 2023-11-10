@@ -65,3 +65,5 @@
 - I am a hard worker and I am always willing to learn new things.
 
 ## How do you feel working under pressure ?
+
+## Tell me about a time you failed and how you handled it.
